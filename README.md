@@ -21,7 +21,7 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:alirazakhadam909@gmail.com">
+  <a href="mailto:saweragulshan2@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://pk.linkedin.com/in/sawera-gulshan-88b254247?trk=people-guest_people_search-card" target="_blank">
