@@ -10,11 +10,15 @@
 
 <div align="center">
  
- 🔭 I’m currently working on *a marketplace*
+ 🔭 I’m currently working on *Frontend web apps*
  
- 🌱 I’m currently learning *React, Laravel, Mongo DB*
+ 🌱 I’m  learning *node js, express js, Mongo DB*
 
-💬 Ask me about **HTML, CSS, JavaScript... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **HTML, CSS, JavaScript... I am happy to help**
+
+📬 How to reach me: [Let's get in touch!][linkedin]
+
+🥅 2024 Goals: Contribute to Open Source projects
 
 ⚡ Fun fact *Game of Thrones Night's Watch cloaks are made from Ikea rugs*
 
