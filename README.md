@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+SAWERA+GULSHAN!;" />
 </h1>
 
-<h3 align="center">A passionate Front-End developer from Pakistan 🇨🇦</h3>
+<h3 align="center">A passionate Front-End developer from Pakistan </h3>
 
 <br/>
 
@@ -14,13 +14,13 @@
  
  🌱 I’m  learning *node js, express js, Mongo DB*
 
-💬 Ask me about **HTML, CSS, JavaScript... I am happy to help**
+ 💬 Ask me about **HTML, CSS, JavaScript... I am happy to help**
 
-📬 How to reach me: [Let's get in touch!][linkedin]
+ 📬 How to reach me: [Let's get in touch!][linkedin]
 
-🥅 2024 Goals: Contribute to Open Source projects
+ 🥅 2024 Goals: Contribute to Open Source projects
 
-⚡ Fun fact *Game of Thrones Night's Watch cloaks are made from Ikea rugs*
+ ⚡ Fun fact *Game of Thrones Night's Watch cloaks are made from Ikea rugs*
 
  </div>
  
