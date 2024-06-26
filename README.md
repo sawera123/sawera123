@@ -1,7 +1,7 @@
 
  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-<h1 align="center">
+<h1 align="left">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+SAWERA+GULSHAN!;" />
 </h1>
 
@@ -9,7 +9,7 @@
 
 <br/>
 
-<div align="center">
+<div align="left">
  
  🔭 I’m currently working on *Frontend web apps*
  
@@ -24,7 +24,10 @@
  ⚡ Fun fact *Game of Thrones Night's Watch cloaks are made from Ikea rugs*
 
  </div>
-<div align="center"> 
+
+
+ Contact me:
+<div align="left"> 
   <a href="mailto:saweragulshan2@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
